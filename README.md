@@ -1,2 +1,2 @@
 # dynamic_planner
-Grid Based Dynamic Path Planner based on ipa_rooom_exploration energy functional explorator.
+Grid Based Hybrid Path Planner based on customizable cost equation.
